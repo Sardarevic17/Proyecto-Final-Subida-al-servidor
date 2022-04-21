@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css2? family= Raleway:ital@1 & family= Roboto:ital,wght@1,300 & display=swap");
+.leye2 {
+  color: whitesmoke;
+  background-color: blueviolet; }
+
+.label {
+  color: whitesmoke; }
+
+.leye-eventos {
+  background-color: aqua;
+  color: grey; }
+
+.nosotros {
+  font-size: 20px;
+  color: grey;
+  padding: 20px;
+  text-align: center;
+  line-height: 40px; }
+
+.main {
+  background-color: grey; }
+
+.body-404 {
+  background: #081c22;
+  margin: 0;
+  padding: 0%;
+  height: 100vh; }
+
+.error-img {
+  width: 50%; }
+
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+  justify-content: center; }
+
+h1 {
+  color: #e9eef5;
+  font-size: 20px;
+  padding: 20px; }
+
+button {
+  padding: 13px 30px;
+  border-radius: 15px;
+  border: none;
+  background: #0581f5; }
+
+@media screen and (max-width: 630px) {
+  h1 {
+    font-size: 15px; } }
+
+.leye3 {
+  font-size: 25px;
+  font-style: italic; }
+
+footer {
+  text-align: center; }
+
+.pie-p {
+  margin-top: 30px; }
+
+.aside {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+* {
+  overflow-x: hidden;
+  font-family: 'Roboto', sans-serif;
+  font-style: italic; }
