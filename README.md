@@ -35,7 +35,8 @@ Desde ya agradezco esta increible experiencia que pude pasar este tiempo acompaÃ
 
 Un placer haber compartido esta hermosa camada.
 
+De venir a Barilo no duden en invitarme esa beer ğŸ»
+
 Saludos cordiales.
 
 
-<!-- De venir a Barilo no duden en invitarme esa beer --!>
